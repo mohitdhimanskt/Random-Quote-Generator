@@ -15,26 +15,26 @@ button.addEventListener('click', () => {
 const quotes = [
   {
     quote: "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you.",
-    author: "princess Diana"
+    author: "-princess Diana"
   },
   {
     quote: "Be yourself, everyone else is already taken.",
-    author: "Oscar Wilde"
+    author: "-Oscar Wilde"
   },
   {
     quote: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-    author: "Albert Einstein"
+    author: "-Albert Einstein"
   },
   {
     quote: "A room without books is like a body without a soul.",
-    author: "Marcus Tullius Cicero"
+    author: "-Marcus Tullius Cicero"
   },
   {
     quote: "Be the change that you wish to see in the world.",
-    author: "Mahatma Gandhi"
+    author: "-Mahatma Gandhi"
   },
   {
      quote: "Give Me Blood and i will give you freedom.",
-     author: "Subhas Chandra Bose" 
+     author: "-Subhas Chandra Bose" 
   }
 ]
